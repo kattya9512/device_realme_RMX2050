@@ -1,0 +1,10 @@
+[
+    {
+        "repository":  "hardware_oplus",
+        "target_path": "hardware/oplus"
+    },
+    {
+        "repository":  "vendor_realme_RMX2050",
+        "target_path": "vendor/realme/RMX2050"
+    }
+]
